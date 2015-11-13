@@ -75,8 +75,8 @@
 DOWNLOAD_PATH = '/tmp/backgrounds/'
 CUSTOM_FOLDER = 'nasa-apod-backgrounds'
 RESOLUTION_TYPE = 'stretch'
-RESOLUTION_X = 1024
-RESOLUTION_Y = 768
+RESOLUTION_X = 1920
+RESOLUTION_Y = 1080
 NASA_APOD_SITE = 'http://apod.nasa.gov/apod/'
 IMAGE_SCROLL = True
 IMAGE_DURATION = 1200
